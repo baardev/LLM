@@ -1,0 +1,15 @@
+./mod.py | perl -MTerm::ANSIColor=colorstrip -ne 'print colorstrip($_)' > x0.tmp
+perl -pi -e 's/\*\*\*\*/\*\*/gmi' x0.tmp
+perl -pi -e 's/\*\*\*\*/\*\*/gmi' x0.tmp
+perl -pi -e 's/\[ZXC\]//gmi' x0.tmp
+perl -pi -e 's/\*\*-OF-\*\*/-OF-/gmi' x0.tmp
+perl -pi -e 's/-IN-\*\*CH/-IN-CH/gmi' x0.tmp
+perl -pi -e 's/CE\*\*-IS/CE-IS/gmi' x0.tmp
+perl -pi -e 's/-OF-\*\*CH/-OF-CH/gmi' x0.tmp
+perl -pi -e 's/ON-\*\*IN/ON-IN/gmi' x0.tmp
+cp x0.tmp x.md
+
+
+mdcat x.md
+
+nohup typora x.md &

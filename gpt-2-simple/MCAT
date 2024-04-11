@@ -1,0 +1,2 @@
+clear
+./mod.py | perl -MTerm::ANSIColor=colorstrip -ne 'print colorstrip($_)' | perl -pe 's/\*\*\*\*/\*\*/gmi' | perl -pe 's/\*\*\*\*/\*\*/gmi' |perl -pe 's/ZXC//gmi' | mdcat
