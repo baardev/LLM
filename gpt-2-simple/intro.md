@@ -1,5 +1,7 @@
 # Pattern 236
 
+$\frac{1}{2}$
+
 **Disclosure:** This concept is a WIP, and is far from finished or free from error.  I welcome any constructive input, corrections, and feedback.
 
 ## Basic Tholonic Claim
