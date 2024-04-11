@@ -1,6 +1,8 @@
 # Pattern 236
 
-$\frac{1}{2}$
+
+
+
 
 **Disclosure:** This concept is a WIP, and is far from finished or free from error.  I welcome any constructive input, corrections, and feedback.
 
@@ -11,7 +13,7 @@ The tholonic claim is that everything that exists, from objects to ideas, follow
 
 Using the simplest mathematical formulas, we start with the most basic: 1×1=1. This equation represents the unity of all existence and, while not very enlightening in describing patterns of duality, it does symbolize the unity of all things that exist, material or otherwise. The first duality to arise in the world of math is even vs. odd, making 2 and 3 the first balanced pair of values. Adopting the idea from Ancient Greek mathematicians that 1 is not just a 'number' but the 'womb' of all numbers, we can also say that 2 and 3 are the first two actual numbers.
 
-For these reasons, the simplest pattern representing both parts of the duality is written mathematically as **2×3=6**. If the above tholonic claim is true, then we should recognize this pattern in nearly everything – and we do!
+For these reasons, the simplest pattern representing both parts of the duality is written mathematically as $2\times 3=6$. If the above tholonic claim is true, then we should recognize this pattern in nearly everything – and we do!
 
 While there are many examples, the most famous and fundamental instance of this simple formula is Isaac Newton's 2nd Law of Motion, written only 11 generations ago in 1673. This law is reduced to ***F=ma***, or ***mass** × **acceleration** = **Force***. So, let's start with this.
 
