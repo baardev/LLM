@@ -2,9 +2,16 @@
 
 
 
+The nomenclature used to identoiry types of concepts, words and definitions, is as follows:
 
+- **[CONCEPT]** refers to the tholonic definition (below).
+- **|concept|** refers to one of the three fundamental tholonic attributes.
+- **ALL-CAPS** (bold) are concepts that are derived by integration.
+- **lowercase** (bold) are concepts derived by dis-integration.
 
-**Disclosure:** This concept is a WIP, and is far from finished or free from error.  I welcome any constructive input, corrections, and feedback.
+Because if this, standard writing style, such as capitalized starts of sentences, does not apply. 
+
+This writing is a WIP, and is far from finished or free from error.  I welcome any constructive input, corrections, and feedback.
 
 ## Basic Tholonic Claim
 
@@ -15,7 +22,7 @@ Using the simplest mathematical formulas, we start with the most basic: 1×1=1. 
 
 For these reasons, the simplest pattern representing both parts of the duality is written mathematically as $\mathbf{2}\times \mathbf{3}=\mathbf{6}$. If the above tholonic claim is true, then we should recognize this pattern in nearly everything – and we do!
 
-While there are many examples, the most famous and fundamental instance of this simple formula is Isaac Newton's 2nd Law of Motion, written only 11 generations ago in 1673. This law is reduced to $\textbf{F=ma}$, or $\textbf{mass × acceleration = Force}$. So, let's start with this.
+While there are many examples, the most famous and fundamental instance of this simple formula is Isaac Newton's 2nd Law of Motion, written only 11 generations ago in 1673. This law is reduced to $\textbf{F=ma}$, or $\textbf{MASS × ACCELERATION = Force}$. So, let's start with this.
 
 Before we get into the main points of Newton’s 2nd Law, there are three concepts of **INSTANCE**, **CONTEXT**, and **SCOPE** that are worth reviewing as they will be used extensively in our example.
 
@@ -25,10 +32,10 @@ Before we get into the main points of Newton’s 2nd Law, there are three concep
 
 - An **INSTANCE** is a “coherent structure” that has the ability to transfer energy in order to exist.  
 
-- **LIMITS**. An INSTANCE has definition and boundaries.  Examples include a rock, a city, a musical style, a religion, a mathematical formula, a theory, or a concept. In general, anything that can be described is an **INSTANCE**.
+- **LIMITATION**. An INSTANCE has definition and boundaries.  Examples include a rock, a city, a musical style, a religion, a mathematical formula, a theory, or a concept. In general, anything that can be described is an **INSTANCE**.
 - **INTEGRATION**. An **INSTANCE** Interacts with its environment in some way. This requirement also applies to everything that exists, including things that can only be imagined, such as concepts. The sustainability of an **INSTANCE** depends on it’s ability to integrate with its environment or **CONTEXT**. 
 - Example: The concept of AI (artificial intelligence) is an **INSTANCE** that transfers energy in its ability to process information in a way that emulates human reasoning and problem-solving, while an **INSTANCE** of a cell phone transfers energy via its ability to transmit and receive electromagnetic signals over various frequencies.  Both of these **INSTANCES** integrate very will with their **CONTEXT** of “modern society”. **INSTANCES** adapt to their changing **CONTEXT** or **DEINSTANTIATE**.  The telegraph in an example of an **INSTANCE** that has adapted to remain integrated to it **CONTEXT**.  The paper phone book is an example of an **INSTANCE** that could not remain integrated and has **DEINSTANTIATED**, with various elements of its **INSTANCE** incorporated into other existing and integrated **INSTANCES** such as online directories, social media platforms, and mobile apps.
-- **NEGOTIATION**. Every **INSTANCE** is the product of other instances that combine in some way, creating a type of parent/child hierarchy, or more accurately, a holon/parton relationship in what is referred to as a *holarchy*. This means that every instance has a "chain of custody", so to speak, an ancestral lineage that traces back to its origins, at least in theory. It must also have the ability to spawn new **INSTANCES**. Therefore, the formation of an **INSTANCE** can only emerge from a process of competition and/or cooperation between the instances from which it is created. These processes, be they peaceful, violent, creative, or destructive, are all forms of **NEGOTIATION**. When the **NEGOTIATION** is over, the remaining state is called a **NEGOTIATED** state. These terms are synonymous with **BALANCING** (as a verb) and **BALANCED** (as a noun).
+- **NEGOTIATION**. Every **INSTANCE** is the product of other instances that combine in some way, creating a type of parent/child hierarchy, or more accurately, a holon/parton relationship in what is referred to as a *holarchy*. This means that every instance has a "chain of custody", so to speak, an ancestral lineage that traces back to its origins, at least in theory. It must also have the ability to spawn new **INSTANCES**. Therefore, the formation of an **INSTANCE** can only emerge from a process of competition and/or cooperation between the instances from which it is created. These processes, be they peaceful, violent, creative, or destructive, are all forms of **BALANCING**. When the **BALANCING** is over, the remaining state is a **BALANCED**. These terms are synonymous with **NEGOTIATING** (as a verb) and **NEGOTIATED** (as a noun).
 - **WORK**. The ability to transfer energy, as in the ability to "work." As this one criterion is a prerequisite for anything that exists on any plane or dimension of reality, it would include everything that has, does, or will exist. Given that everything, including ideas, transfers energy, the focus is on the mechanics of that energy transfer and how it works.
 
 ### CONTEXT
@@ -41,13 +48,13 @@ Before we get into the main points of Newton’s 2nd Law, there are three concep
 
 - **SCOPE** is a property of measure that defines the limits or properties of a **CONTEXT** and **INSTANCE**. An example might be the force of gravity, which is different at sea level vs. a mountain top. An object falls faster at sea level than it does on a mountaintop. The **CONTEXT** (surface of planet earth) and **INSTANCE** (a golf ball) are the same, but the **SCOPE** of limits are different (air pressure, gravitational force, temperature, etc.)  **CONTEXT** is like a map of a territory, and **SCOPE** is like the reality of the territory.  
 - Another way to think about **CONTEXT** vs. **SCOPE** is via the "Coastline paradox". If you measure the coastline of England with a 100 km ruler, the coast is 2,800 km long, but if you measure it with a 10-meter ruler, the coast is 10,000 km long. Here, the "coastline of England" is the **INSTANCE**, and the ruler's size is the **SCOPE**, and “earth->geography->cartography->coastlines” would one possible **CONTEXT**. 
-- **SCOPE** is always represented in units of measure, similar to how **MATTER** is the **CONTEXT**, and **MASS** is the measure of **MATTER**.
+- **SCOPE** is always represented in units of measure, similar to how matter is the **CONTEXT**, and **MASS** is the measure of matter.
 
 
 
-These concept can be used to descibe the classical physids teems as well.  For example, here are the clasiscal definions of teh comes used in teh exmaples that fwollow, and their tholonic equivalnet definitions
+These concept can be used to describe the classical physics terms as well.  For example, here are the classical definitions of the common terms used in the examples that follow, and (below) their tholonic equivalent definitions
 
-*Note: Where equations exist that require the value of time, unless otherwise stated, time is always assumed to be 1. The same goes for theta, the angle of interaction (between a force and a body), which is always considered to be 0 degrees. For example, where P=power, F=force, s=distance, the equation to calculate 'work÷time' is shown as P=(F×s×cos(θ))÷time, but this can also be written as P=F×v because if cos(0)=1, and time=1, the formula simplifies to P=(F×(s/time)×1)/1, and since (s/time) = velocity, we can simply write P=F×v. It important to keep in mind that these very simple looking formulas get very complicated as soon as variables like time, theta, acceleration, etc., start changing.  These formulas represent the simplest case, the archetype, of the concept.*
+*Note: Where equations exist that require the value of time, unless otherwise stated, time is always assumed to be 1. The same goes for theta, the angle of interaction (between a force and a BODY), which is always considered to be 0 degrees. For example, where P=power, F=force, s=distance, the equation to calculate 'work÷time' is shown as P=(F×s×cos(θ))÷time, but this can also be written as P=F×v because if cos(0)=1, and time=1, the formula simplifies to P=(F×(s/time)×1)/1, and since (s/time) = VELOCITY, we can simply write P=F×v. It important to keep in mind that these very simple looking formulas get very complicated as soon as variables like time, theta, ACCELERATION, etc., start changing.  These formulas represent the simplest case, the archetype, of the concept.*
 
 **MASS** is a measure of a material **INSTANCE** and a property of **BODY**.
 
@@ -57,7 +64,7 @@ A **BODY** is a collection of matter within a defined contiguous boundary in 3D 
 
 - *A material **INSTANCE** (with implied **SCOPE** of **MASS** and **CONTEXT** of 3D space).*
 
-**MOTION** is the change of spatial properties of a body with respect to time. 
+**MOTION** is the change of spatial properties of a BODY with respect to time. 
 
 - A change in the relationship of a **CONTEXTUAL INSTANCE** to its **CONTEXT**.
   - **Explanation:** By replacing the concept of **BODY** with the concept of **CONTEXTUAL** **INSTANCE**, we've expanded the concept of **MOTION** beyond **MASS**. For example, one of the **CONTEXTUAL** properties of an **INSTANCE** might be temperature. As temperature changes, we could say that temperature has **MOTION** because it has “moved” or changed. While this is outside the standard use of the word **MOTION**, it is conceptually 100% accurate. It's quite common to say, "The temperature has changed", which is identical to saying, "The temperature has **MOTION**"; it just sounds odd.
@@ -96,14 +103,14 @@ First we will look as the law itself.
 
 The primary primary formula for Newton’s 2nd Law of Motion is 
 
-**FORCE** = **MASS** × **ACCELERATION** (*F=m×a*)
+**FORCE** = **MASS** × **ACCELERATION** ($F = m \times a$)
 
 Because **FORCE** is a product of multiplication there are also two first-order or derivate formulas of:
 
-**MASS** = **FORCE** ÷ **ACCELERATION** *(m=F÷a)*
-**ACCELERATION** = **FORCE** ÷ **MASS**  *(a=F÷m)*
+**MASS** = **FORCE** ÷ **ACCELERATION** ($m=\frac{F}{a}$)
+**ACCELERATION** = **FORCE** ÷ **MASS**  ($a=\frac{F}{m}$)
 
-There are second-order derivative as well, such as. m×f = impulse and a×f = torque, but for brevity and simplicity, we will only be considering the primary function and it immediate derivatives.
+There are second-order derivative as well, such as. $m×F=impulse$ and $a×F=torque$, but for brevity and simplicity, we will only be considering the primary function and it immediate derivatives.
 
 **FORCE** is the only value that is divided, making **FORCE** a holon, and  **MASS** and **ACCELERATION** are the partons.
 
@@ -113,9 +120,9 @@ We can think of **MASS**, which is a scaler value (meaning a value that has no o
 
 **FORCE** is a 3 dimensional value as it combines both MASS and ACCELERATION.
 
-Just like our 3 dimensional world exist in the 4th dimension of time, so too do the 3 dimension of **FORCE** exist  in time. This is expressed in the formula ***F×time=POWER***.
+Just like our 3 dimensional world exist in the 4th dimension of time, so too do the 3 dimension of **FORCE** exist  in time. This is expressed in the formula $F×time=POWER$.
 
-From these three simple equations, we can determine the **POWER** of the interaction (*P=Fa*)
+From these three simple equations, we can determine the **POWER** of the interaction ($P=Fa$)
 
 **POWER** this is best understood using the example of a light bulb.  A 100 watt light means that is consumes 100 watts every hour.  A 10 watt bulb consumes the same amount of electrical **FORCE**, but over 10 hours.
 
@@ -175,7 +182,7 @@ Her are three different **CONTEXTS** of the 236 pattern where we replace the con
 Given the above, we can state the following:
 
 - **6** produces the concept of **3** in relation to **2** resulting an instance of **3~a~**. 
-  - If **2x=6**, then the **x** is concept and **3** is the **INSTANCE** of that concept.
+  - If $\textbf{2x=6}$, then the $\textbf{x}$ is a concept of **3**, and the value of **3** is the **INSTANCE** of that concept.
 
 - If **2** is not multiplied by **3~a~**, then there is no **6**.
 - **2** can exist without **6** or **3** but there can be no concept of **3** or the value of **3~a~** without **6**.
@@ -184,7 +191,7 @@ Given the above, we can state the following:
    - **3** is the “balancing” (verb) value, and **2** is the “balanced” (noun) value.
 
 - Changes (due to **6**) in **3~v~** (relative to **2**) is the lasting equilibriating effect.
-   - “*relative to **2***” means **3** and 6 will change ensuring that **2** remains unchanged, or **3=6÷2,** or **a=F÷m**. 
+   - “*relative to **2***” means **3** and 6 will change ensuring that **2** remains unchanged, or $\mathbf{3}=\frac{\mathbf{6}}{\mathbf{2}}$, or $\textbf{a}=\frac{\mathbf{F}}{\mathbf{m}}$ . 
 
 - - **6** and **3~a~** combined produce **18** in the direction of of **3~v~**.
    - *The concept of “direction” doesn’t really fit, AFAIK, in the **CONTEXT** of a single number, but it is interesting to note that 3 gets priority over **2** in the formula **2×3×3=18**, perhaps because 3 is dominant.*
@@ -192,15 +199,13 @@ Given the above, we can state the following:
 **───────────────────────────────────────────────**
 
 ### The relationships in **2×3=6** are as follows:
-
-- **6**  =  (**2** × **3~a~**)
-- **2**  =  (**6** ÷ **3~a~**)
-- **3~a~**  =  (**6** ÷ **2**)
-- **18**  =  (**6** × **3~a~**)
+- $6=2×3_a$
+- $2=\frac{6}{3_a}$
+- $3_a=\frac{6}{2}$
+- $28=6× 3_a$
 
 ### Other relationships include:
-
-- **18**  =  (**2** × **3²**)
+- $28=2×3^2$
 
 **───────────────────────────────────────────────**
 
@@ -213,7 +218,7 @@ Given the above, we can state the following:
 
 - * **6** and **18** are the only values that are arrived at by multiplication. All other values are the products of division.
 - **2** is what transforms the unity of **1** into a duality (that’s why it is called a duality, from Latin “duo”, meaning "**2**") making **2** the archetype of division and separation. In the context of math, this unified singularity is **6**.
--  In the equation 6=3×2, we are actually saying 6=3+3, but we can just as easily say 6=1.012345 + 4.987655.  6=3+3 is the most balanced equation, and therefore the equations with the highest entropy, or most stable state.
+-  In the equation **6=3×2**, we are actually saying **6=3+3**, but we can just as easily say **6=1.012345 + 4.987655**.  **6=3+3** is the most balanced equation, and therefore the equations with the highest entropy, or most stable state.
 
 ●3●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●
 
@@ -229,7 +234,7 @@ Another example is electricity
 - **VELOCITY** is defined as **CURRENT~v~**
 - **ACCELERATION** is defined as **CURRENT~a~**
 - **FORCE** is defined as **VOLTS**
-- **BODY** is defined as **AN ELECTRICAL CIRCUIT**
+- **BODY** is defined as **ELECTRICAL CIRCUIT**
 - **POWER** is defined as **WATTS**
 - **CONTEXT** is defined as **ELECTROMAGNETISM**
 - **SCOPE** is defined as **SI Units**
@@ -246,22 +251,20 @@ Another example is electricity
 **───────────────────────────────────────────────**
 
 ### The basic relationships in **CIRCUIT** (Ohm’s Law) are as follows:
-
-- **VOLTS**  =  (**RESISTANCE** × **CURRENT~a~**)
-- **RESISTANCE**  =  (**VOLTS** ÷ **CURRENT~a~**)
-- **CURRENT~a~**  =  (**VOLTS** ÷ **RESISTANCE**)
-- **WATTS**  =  (**VOLTS** × **CURRENT~a~**)
-
+- $\mathbf{VOLTS=resistance×current_a}$ 
+- $\mathbf{resistance}=\frac{\mathbf{VOLTS}}{\mathbf{current_a}}$ 
+- $\mathbf{current_a}=\frac{\mathbf{VOLTS}}{\mathbf{resistance}}$ 
+- $\mathbf{WATTS=VOLTS×current_a}$ 
 ### Other relationships include:
 
-- **WATTS**  =  (**RESISTANCE** × **CURRENT^2^**)
+- $\mathbf{WATTS=resistance×current^2}$ 
 
 **───────────────────────────────────────────────**
 
 ### If the above is true, we can then state:
 
 - **WATTS** can be increased by decreasing **RESISTANCE** and increasing **VOLTS**.
-- To increase **VOLTS** without increasing **RESISTANCE**, increase **CURRENT~a~**.
+- To increase **VOLTS** without increasing **RESISTANCE**, increase **AMPERAGE~a~**.
 
 All these statements are true.
 
@@ -270,7 +273,7 @@ All these statements are true.
 ### Some observations:
 
 - **VOLTS** is also called the “potential” as it represent the difference, or imbalance between two energy levels.  **VOLTS** also represent the unified singularity in the context of electricity.  This then tells us that the singularity defines the entire spectrum of possibilities, the limits of potential, as the sum of its divide parts can never be greater that the whole. 
--  **6=2×3** is **6=3~j~+3~k~** and represents the balanced equation.  The difference or “potential” between the two **3**s is **3~j~-3~k~=0**.  This is the same as saying **VOLTS** is the different between its divided parts, and the **CURRENT** is the **BALANCING** movement that integrates, and eventually **BALANCES**, that difference until they are both equal.
+-  $\textbf{6=2×3}$ is $\mathbf{6=3_j+3_k}$ and represents the balanced equation.  The difference or “potential” between the two $\textbf{3}$s is $\mathbf{3_j-3_k=0}$.  This is the same as saying **VOLTS** is the different between its divided parts, and the **current** is the **BALANCING** movement that integrates, and eventually **BALANCES**, that difference until they are both equal.
 
 ●10●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●
 
@@ -278,14 +281,14 @@ All these statements are true.
 
 **───────────────────────────────────────────────**
 
-- **MOMENTUM** is defined as **AMOUNT-OF-INTEGRATION**
+- **MOMENTUM** is defined as amount of **INTEGRATION**
 - **MASS** is defined as **LIMITATION**
 - **MOTION** is defined as **INTEGRATION**
 - **VELOCITY** is defined as **INTEGRATION~v~**
 - **ACCELERATION** is defined as **INTEGRATION~a~**
 - **FORCE** is defined as **BALANCE**
 - **BODY** is defined as **THOLON**
-- **POWER** is defined as **ABILITY-TO-GENERATE**
+- **POWER** is defined as **GENERATE**
 - **CONTEXT** is defined as **THOLOGRAM**
 - **SCOPE** is defined as **THOLONICS (TBD)**
 
@@ -293,33 +296,33 @@ All these statements are true.
 
 1. **BALANCE** produces **INTEGRATION** in the process of creating **LIMITATION** by creating **INTEGRATION~a~**. 
 2. If a **LIMITATION** has no **INTEGRATION~a~**, then there is no **BALANCE** involved.
-3. **LIMITATION** can exist without **BALANCE**, but there can be no **AMOUNT-OF-**INTEGRATION** or **INTEGRATION~a~** without **BALANCE**.
+3. **LIMITATION** can exist without **BALANCE**, but there can be no amount of  **INTEGRATION** or **INTEGRATION~a~** without **BALANCE**.
 4. **BALANCE** is the cause, **INTEGRATION~a~** is the immediate and disequilibriated effect.
-5. **BALANCE** and **INTEGRATION~a~** combined produce the **ABILITY-TO-GENERATE** over time in the direction of the **INTEGRATION~v~**.
+5. **BALANCE** and **INTEGRATION~a~** combined produces the ability to **GENERATE** over time in the direction of the **INTEGRATION~v~**.
 6. Changes in **LIMITATION** (due to **BALANCE**) and resulting changes in **INTEGRATION~v~** (relative to the parent) is the lasting equilibriated effect.
 
 **───────────────────────────────────────────────**
 
 ### The basic relationships in **THOLON** are as follows:
 
-- **BALANCE**  =  (**LIMITATION** × **INTEGRATION~a~**)
-- **LIMITATION**  =  (**BALANCE** ÷ **INTEGRATION~a~**)
-- **INTEGRATION~a~**  =  (**BALANCE** ÷ **LIMITATION**)
-- **GENERATE**  =  (**BALANCE** × **INTEGRATION~a~**)
-
+- $\mathbf{BALANCE=limitation×integration_a}$ 
+- $\mathbf{limitation}=\frac{\mathbf{BALANCE}}{\mathbf{integration_a}}$ 
+- $\mathbf{integration_a}=\frac{\mathbf{BALANCE}}{\mathbf{limitation}}$ 
+- $\mathbf{GENERATE=BALANCE×integration_a}$ 
 ### Other relationships include:
-
-- **ABILITY-TO-GENERATE**  =  (**LIMITATION** × **INTEGRATION^2^**)
+- $\mathbf{GENERATION=limitation×integration^2}$ 
 
 **───────────────────────────────────────────────**
 
 ### If the above is true, we can then state:
 
-- **ABILITY-TO-GENERATE** can be increased by decreasing **LIMITATION** and increasing **BALANCE**.
+- The ability to **GENERATE** can be increased by decreasing **LIMITATION** and increasing **BALANCE**.
 - To increase **BALANCE** without increasing **LIMITATION**, increase **INTEGRATION~a~**.
 
 ### Some observations:
 Each **INSTANTIATION** of energy expresses itself differently depending on its **CONTEXT**, but we categorize them under each of the fundamental tholonic properties:
+
+
 
 | BALANCE | LIMITATION | INTEGRATION |
 | ------- | ---------- | ----------- |
@@ -327,7 +330,9 @@ Each **INSTANTIATION** of energy expresses itself differently depending on its *
 | 6       | 2          | 3           |
 | VOLTS   | RESISTANCE | CURRENT     |
 
-At first glance the concept of **BALANCE** would not seem to apply for concepts like **FORCE** or **VOLTS**, as these concepts are ones of energy, change, transformation, etc., that result in states of imbalance.  While that is true, the changes or transformations that result form **FORCE** or **VOLTS** comes from the difference between two already **BALANCED** but different energy levels.  Earth is in a **BALANCED** state, so is a massive asteroid gently and lazily ”floating” through space at 55,000 mph.  The change and transformation happens when the high **BALANCED** energy asteroid meets the low **BALANCED** earth.
+
+
+At first glance the concept of **BALANCE** would not seem to apply for concepts like **FORCE** or **VOLTS**, as these concepts are ones of energy, change, transformation, etc., that result in states of imbalance.  While that is true, the changes or transformations that result form **FORCE** or **VOLTS** comes from the difference between two already **BALANCED** but different energy levels.  Earth is in a **BALANCED** state, so is a giant asteroid gently and lazily ”floating” through space at 55,000 mph.  The change and transformation happens when the high **BALANCED** energy asteroid meets the low **BALANCED** earth.
 
 
 
@@ -399,7 +404,7 @@ None of these statement appear to be false.
 
 ### Some Observations:
 
-- This tricky aspect of cause and effect is that it typically requires a mass and a force that intersect at some point. Moving this to the conceptual realm, what do we mean by **MASS**, **FORCE**, and **POINT-OF-EXCHANGE**? We state that **MASS** is defined as a coherent structure in material form, but in the conceptual or archetypal realm, a coherent structure could be a theory, hypothesis, good idea, or memory. **FORCE**, or **IMPULSE** in this context, could be an act of will or an emotional, instinctual, or conditioned response. Defining the **POINT-OF-EXCHANGE** that will alter an idea's "speed and direction" is difficult to quantify as we have no idea how to measure such things.
+- This tricky aspect of cause and effect is that it typically requires a MASS and a force that intersect at some point. Moving this to the conceptual realm, what do we mean by **MASS**, **FORCE**, and **POINT-OF-EXCHANGE**? We state that **MASS** is defined as a coherent structure in material form, but in the conceptual or archetypal realm, a coherent structure could be a theory, hypothesis, good idea, or memory. **FORCE**, or **IMPULSE** in this context, could be an act of will or an eMOTIONal, instinctual, or conditioned response. Defining the **POINT-OF-EXCHANGE** that will alter an idea's "speed and direction" is difficult to quantify as we have no idea how to measure such things.
 
 
 
@@ -507,13 +512,13 @@ As long as we are delving into areas I know way too little about, let’s look a
 
 **Some observations:**  
 
-- When we calculate the **POWER** using **E**, **m**, and ***c***, we get a value of **FORCE** that is **J** (joules), which is literally a unit created for measuring **POWER**.  One joule is equal to the energy used to accelerate a body with a mass of one kilogram using one newton of force over a distance of one meter. It is also equivalent to one watt-second.
+- When we calculate the **POWER** using **E**, **m**, and ***c***, we get a value of **FORCE** that is **J** (joules), which is literally a unit created for measuring **POWER**.  One joule is equal to the energy used to accelerate a BODY with a MASS of one kilogram using one newton of force over a distance of one meter. It is also equivalent to one watt-second.
 
-- The speed-of-light has only one **VELOCITY** (***c~v~***), and its **MOTION** (***c***) is always on and always the same.  While ***c*** can't actually **ACCELERATE**, the ***c²*** in **E=m*c*^2^** suggests it can because this is how we define acceleration. For example, the **ACCELERATING** pull of gravity of 9.8 meter per second^2^, or 9.8m/s^2^.  However, if I was traveling at the speed of light (ignoring the fact that time stops and the universe become zero in size) and I turned on my laser pointer, the light would leave the laser at ***c***, which is literally ***c²***, which is impossible.  I guess that is where the "relativity" parts comes into play.  The interesting part is that ***c²*** *does* exist in our model as **ACCELERATION** (***c~a~***), making **E=m*c*^2^** = **E=m*c*~a~**.  This shows that the model is in sync with reality.
+- The speed-of-light has only one **VELOCITY** (***c~v~***), and its **MOTION** (***c***) is always on and always the same.  While ***c*** can't actually **ACCELERATE**, the ***c²*** in **E=m*c*^2^** suggests it can because this is how we define ACCELERATION. For example, the **ACCELERATING** pull of gravity of 9.8 meter per second^2^, or 9.8m/s^2^.  However, if I was traveling at the speed of light (ignoring the fact that time stops and the universe become zero in size) and I turned on my laser pointer, the light would leave the laser at ***c***, which is literally ***c²***, which is impossible.  I guess that is where the "relativity" parts comes into play.  The interesting part is that ***c²*** *does* exist in our model as **ACCELERATION** (***c~a~***), making **E=m*c*^2^** = **E=m*c*~a~**.  This shows that the model is in sync with reality.
 
-- In the previous ‘Light’ example **J** (joules, or rather, electron-volts measured in joules) is the product of ***c*** × **SPACE**, and here **J** = ***c*** × **MASS**. This means that the relationship between **J~L~** (joules in light) and **J~E~** (joules in mass) is **J~L~ = 3J~E~**.  This can be shown by using the number values with the same pattern, where  **J~L~**=***18=2×3×3***, **J~E~** =***6=2×3***, therefor, ***18/3=6***.  I am not sure what this “means”, but it’s fascinating that the difference between massless energy (light) and mass energy (**m=E/c^2^**) just happens to be **3**. 
+- In the previous ‘Light’ example **J** (joules, or rather, electron-volts measured in joules) is the product of ***c*** × **SPACE**, and here **J** = ***c*** × **MASS**. This means that the relationship between **J~L~** (joules in light) and **J~E~** (joules in MASS) is **J~L~ = 3J~E~**.  This can be shown by using the number values with the same pattern, where  **J~L~**=***18=2×3×3***, **J~E~** =***6=2×3***, therefor, ***18/3=6***.  I am not sure what this “means”, but it’s fascinating that the difference between MASSless energy (light) and MASS energy (**m=E/c^2^**) just happens to be **3**. 
 
-- **J~L~** = *2x3^2^*, which is the exact same pattern as *E=mc^2^*.  This places ***c***^2^ in the same position as **3**, which is the position as **SPACE**/**MOTION**, again showing a another relationship between ***c*** and **SPACE**, or at least between their abstractions. Also, the RESISTANCE position or 2,MASS remained unaffected, which is compatible with the above claim (based on the formulas) that “**LIMITATION/DEFINITION** (as in **MASS**, **RESISTANCE**, **TIME**, etc.) can exist without energy, but there can be no **MOTION** of any type without energy.”
+- **J~L~** = *2x3^2^*, which is the exact same pattern as *E=mc^2^*.  This places ***c***^2^ in the same position as **3**, which is the position as **SPACE**/**MOTION**, again showing a another relationship between ***c*** and **SPACE**, or at least between their abstractions. Also, the RESISTANCE position or 2,MASS remained unaffected, which is compatible with the above claim (based on the formulas) that “**LIMITATION/DEFINITION** (as in **MASS**, **resistance**, **TIME**, etc.) can exist without energy, but there can be no **MOTION** of any type without energy.”
 
 
 
@@ -586,7 +591,7 @@ No theory of reality would be complete without touching on Economics
 **───────────────────────────────────────────────** 
 
 1. Increased **CONSUMER_DEMAND** produces **CHANGES** in **PRODUCTION & OVERHEAD** resulting in **GROWTH**. 
-   1. Just as acceleration implies the possibility of negative acceleration (deceleration), implicit in the concept of GROWTH is negative growth. 
+   1. Just as ACCELERATION implies the possibility of negative ACCELERATION (DECELERATION), implicit in the concept of GROWTH is negative growth. 
 2. If a **PRODUCTION & OVERHEAD** is not driven by **CONSUMER_DEMAND**, then there is no **GROWTH**.
 3. **PRODUCTION & OVERHEAD** can exist without **CONSUMER_DEMAND**, but there will be no **MARKETCAP** or **GROWTH** without **CONSUMER_DEMAND**.
 4. **CONSUMER_DEMAND** is the cause, **GROWTH** is the immediate and disequilibriated effect.
@@ -623,14 +628,14 @@ Now we can apply the technique to Tholonic version (v1) of this model which is b
 
 **───────────────────────────────────────────────**
 
-- **MOMENTUM** is defined as **AMOUNT-OF-CONTRIBUTION**
+- **MOMENTUM** is defined as amount of **CONTRIBUTION**
 - **MASS** is defined as **DEFINITION**
 - **MOTION** is defined as **CONTRIBUTION**
 - **VELOCITY** is defined as **CONTRIBUTION~v~**
 - **ACCELERATION** is defined as **CONTRIBUTION~a~**
 - **FORCE** is defined as **NEGOTIATION**
 - **BODY** is defined as **THOLON**
-- **POWER** is defined as **ABILITY-TO-GENERATE**
+- **POWER** is defined as **GENERATE**
 - **CONTEXT** is defined as **THOLOGRAM**
 - **SCOPE** is defined as **THOLONICS (TBD)**
 
@@ -638,9 +643,9 @@ Now we can apply the technique to Tholonic version (v1) of this model which is b
 
 1. **NEGOTIATION** produces **CONTRIBUTION** in the process of creating **DEFINITION** by creating **CONTRIBUTION~a~**. 
 2. If a **DEFINITION** has no **CONTRIBUTION~a~**, then there is no **NEGOTIATION** involved.
-3. **DEFINITION** can exist without **NEGOTIATION**, but there can be no **AMOUNT-OF-**CONTRIBUTION** or **CONTRIBUTION~a~** without **NEGOTIATION**.
+3. **DEFINITION** can exist without **NEGOTIATION**, but there can be no amount of **CONTRIBUTION** or **CONTRIBUTION~a~** without **NEGOTIATION**.
 4. **NEGOTIATION** is the cause, **CONTRIBUTION~a~** is the immediate and disequilibriated effect.
-5. **NEGOTIATION** and **CONTRIBUTION~a~** combined produce **ABILITY-TO-GENERATE** over time in the direction of **CONTRIBUTION~v~**.
+5. **NEGOTIATION** and **CONTRIBUTION~a~** combined produce the ability to **GENERATE** over time in the direction of **CONTRIBUTION~v~**.
 6. Changes in **DEFINITION** (due to **NEGOTIATION**) and resulting changes in **CONTRIBUTION~v~** (relative to the parent) is the lasting equilibriated effect.
 
 **───────────────────────────────────────────────**
@@ -650,11 +655,11 @@ Now we can apply the technique to Tholonic version (v1) of this model which is b
 - **NEGOTIATION**  =  (**DEFINITION** × **CONTRIBUTION~a~**)
 - **DEFINITION**  =  (**NEGOTIATION** ÷ **CONTRIBUTION~a~**)
 - **CONTRIBUTION~a~**  =  (**NEGOTIATION** ÷ **DEFINITION**)
-- **ABILITY-TO-GENERATE**  =  (**NEGOTIATION** × **CONTRIBUTION~a~**)
+- **GENERATE**  =  (**NEGOTIATION** × **CONTRIBUTION~a~**)
 
 ### Other relationships include:
 
-- **ABILITY-TO-GENERATE**  =  (**DEFINITION** × **CONTRIBUTION^2^**)
+- **GENERATE**  =  (**DEFINITION** × **CONTRIBUTION^2^**)
 
   
 
@@ -662,7 +667,7 @@ Now we can apply the technique to Tholonic version (v1) of this model which is b
 
 ### If the above is true, we can then state:
 
-- **ABILITY-TO-GENERATE** can be increased by decreasing **DEFINITION** and increasing **NEGOTIATION**.
+- The ability to **GENERATE** can be increased by decreasing **DEFINITION** and increasing **NEGOTIATION**.
 - To increase **NEGOTIATION** without increasing **DEFINITION**, increase **CONTRIBUTION~a~**.
 
 ●11●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●◀▶●
@@ -683,11 +688,11 @@ The Tholonic claim is that INTELLIGENCE is a product of INTERACTION between INST
   - Technically, this should the **SCOPE-OF-INSTANCE-VIA-WHICH-INTELLIGENCE-INTERACTS**, but it just too long.  The idea is, for INTERACTION to exist, there must be something capable of INTERACTION that exists in a CONTEXT. In the non-physical realm, this could be an archetype.  We see this type of  INTERACTION of INTELLIGENCES in origin myths and legends, or any anthropomorphism.  It could also be ideas and ‘isms’, such as the model of materialism vs. idealism vs. social constructivism vs. pragmatism vs.  interactionism, etc.
 - **MOTION** is defined as **INTELLIGENCE**
 - **VELOCITY** is defined as **APPLIED-INTELLIGENCE~v~**
-  - VELOCITY implies direction, and the direction of an intelligence depends wholly on what it is capable of, what type of **INTERACTIONS** it is deigned for.  The **APPLIED**-**INTELLIGENCE** of a plant is optimized for converting and storing electromagnetic radiation into matter, while the **APPLIED-INTELLIGENCE** of a virus is optimized for DNA/RNA replication.
+  - VELOCITY implies direction, and the direction of an intelligence depends wholly on what it is capable of, what type of **INTERACTION** or **FORCE** it is designed for.  The **APPLIED**-**INTELLIGENCE** of a plant is optimized for converting and storing electromagnetic radiation into matter, while the **APPLIED-INTELLIGENCE** of a virus is optimized for DNA/RNA replication.
 - **ACCELERATION** is defined as **NOVELTY~a~**
   - **NOVELTY** here refers to the physics concept of **NOVELTY**, which means “A change to a system”.  Any change to a system alters its ability to **INTERACT**.  Like with the concept of **ACCELERATION**, the resulting change could be a decrease in **INTERACTION**, but in this example we only consider **NOVELTY** that increases  **INTERACTION**.
 - **FORCE** is defined as **INTERACTION**
-- **BODY** is defined as **Existence**
+- **BODY** is defined as **existence**
 - **POWER** is defined as **KNOWLEDGE**
   - This sounds quite cliche, as in “Knowledge is power”, but as **POWER** is the **INTERACTION** between **INSTANCES** of **MASS**, so too is **KNOWLEDGE** the **INTERACTION** between **INSTANCES** of **INTELLIGENCE**.
 
@@ -728,11 +733,11 @@ To end this, let’s look at the ultimate abstraction of existence.  But first, 
 
 
 
-A&I:  This represent AWARENESS & INTENTION, which are the two inseparable properties from which all existence emerges.  AWARENESS is considered the CONTEXT-free and unlimited archetype of CONSCIOUSNESS, which itself is considered a limited CONTEXTUAL INSTANCE of AWARENESS.  INTENTION is the willful movement of AWARENESS, for lack of a better description.  There is no INTENTION without AWARENESS, and vice-versa, in some way similar to the fact that there no space-time without both space and time, or no electrical charge with a magnetic field.
+**A&I**:  This represent **AWARENESS** & INT**E**NTION, which are the two inseparable properties from which all existence emerges.  **AWARENESS** is considered the **CONTEXT**-free and unlimited archetype of consciousness, which itself is considered a limited **CONTEXTUAL** **INSTANCE** of **AWARENESS**.  **INTENTION** is the willful movement of **AWARENESS**, for lack of a better description.  There is no **INTENTION** without **AWARENESS**, and vice-versa, in some way similar to the fact that there no space-time without both space and time, or no electrical charge with a magnetic field.
 
-Conceptually, pure A&I can be imagined as a 0 dimensional point.  Having no dimensions, it does not exist other that a concept.  It exists solely due to your AWARENESS of its existence.  However, it can only exist in your AWARENESS is you have the INTENTION to be aware if it.  As this point was created by the properties of AWARENESS and INTENTION, it also has the (latent) properties of AWARENESS and INTENTION.  In a reality that consists of only a 0 dimensional point, there can be no time or space, which means pure A&I is unconstrained by time or space, making this 0 dimensional point effectively infinite.
+Conceptually, pure **A&I** can be imagined as a 0 dimensional point.  Having no dimensions, it does not exist other that a concept.  It exists solely due to your **AWARENESS** of its existence.  However, it can only exist in your **AWARENESS** is you have the **INTENTION** to be aware if it.  As this point was created by the properties of **AWARENESS** and **INTENTION**, it also has the (latent) properties of **AWARENESS** and **INTENTION**.  In a reality that consists of only a 0 dimensional point, there can be no time or space, which means pure **A&I** is unconstrained by time or space, making this 0 dimensional point effectively infinite.
 
-Before we go on, I want to stress that is not not meant to sound religious or spiritual.  This is a purely analytical approach to look as the concepts of AWARE and INTENTION, which are becoming more front and center in the world of physics and technology every day, to teh point where physicists beginning to consider consciousness as one of the fundamental forces of the Universe, and with the explosion of AI (artificial intelligence) and AGI (artificial general intelligence, e.g., when Ai can teach itself and has “understanding”), where some engineers have already claim Ai and achieved swlf-awareness and consiousness, these can no longer be consdiered purly philosophical, spiritual or religions concept.
+Before we go on, I want to stress that is not not meant to sound religious or spiritual.  This is a purely analytical approach to look as the concepts of **AWARENESS** and **INTENTION**, which are becoming more front and center in the world of physics and technology every day, to the point where physicists beginning to consider consciousness as one of the fundamental forces of the Universe, and with the explosion of AI (artificial intelligence) and AGI (artificial general intelligence, e.g., when AI can teach itself and has “understanding”), where some engineers have already claim AI and achieved self-awareness and consciousness, these can no longer be considered purly philosophical, spiritual or religions concept.
 
 ## Awareness
 
@@ -782,8 +787,8 @@ Before we go on, I want to stress that is not not meant to sound religious or sp
 **───────────────────────────────────────────────**
 
 ### If the above is true, we can then state:
-- **CONSCIOUSNESS~18~** can be increased by increasing **DUALITY~2~**, **MOVEMENT~3-motion~**, or **A&I~6~**.
-- To increase **A&I~6~** without increasing **DUALITY~2~**, increase **CREATION~3-acceleration~**.
+- **CONSCIOUSNESS~18~** can be increased by increasing **DUALITY~2~**, **MOVEMENT~3-MOTION~**, or **A&I~6~**.
+- To increase **A&I~6~** without increasing **DUALITY~2~**, increase **CREATION~3-ACCELERATION~**.
 
 
 
@@ -801,23 +806,23 @@ Before we go on, I want to stress that is not not meant to sound religious or sp
 
   - the **BALANCE** **INSTANCES** (**6**, **FORCE**,**VOLTS**) and the **GENERATE** **INSTANCES** (**18**, **POWER**, **WATTS**) are the only values that are arrived at by multiplication. All other values are the products of division.
 
-  - The **LIMITATION** **INSTANCES** (**2, MASS, RESISTANCE**) are quite celary forms of LIMITAITON. This is explicitly poimnted out in teh physics definition of **MASS** and **RESISTANCE**.  As for **2**, it is **2** that turns the unity of **1** into a duality (that’s why it is called a duality, from Latin “duo”, meaning "2"), make 2 the  **LIMITATION** of 1.
+  - The **LIMITATION** **INSTANCES** (**2, MASS, RESISTANCE**) are quite celary forms of LIMITAITON. This is explicitly poimnted out in teh physics definition of **MASS** and **resistance**.  As for **2**, it is **2** that turns the unity of **1** into a duality (that’s why it is called a duality, from Latin “duo”, meaning "2"), make 2 the  **LIMITATION** of 1.
 
-  - ~~, that is **2** that turns the unity of **1** into a duality, making oit very clear that is is 2 that divided the suggesting that duality, the division and separation of what was whole and complete, is a form of, or result of,  **RESISTANCE** (as if we are not reminded of that daily).  This makes **2** the number of **DIVISION** and **RESISTANCE**e division and separation of what was whole and complete, is a form of, or result of,  **RESISTANCE** (as if we are not reminded of that daily).  This makes **2** the number of **DIVISION** and **RESISTANCE**~~
+  - ~~, that is **2** that turns the unity of **1** into a duality, making oit very clear that is is 2 that divided the suggesting that duality, the division and separation of what was whole and complete, is a form of, or result of,  **resistance** (as if we are not reminded of that daily).  This makes **2** the number of **DIVISION** and **resistance**e division and separation of what was whole and complete, is a form of, or result of,  **resistance** (as if we are not reminded of that daily).  This makes **2** the number of **DIVISION** and **resistance**~~
 
-  - ~~This is intuitively and rationally obvious, but a form of **RESISTANCE** (as it is energy (**E**) divided by ***c^2^***, according to ***m=E÷c^2^***. Division is, by definition, the division and separation of what was whole and complete, and is represented as **2**. In the case of **MASS**, the whole that is being divided by **ACCELERATION** is **FORCE**. However, as FORCE = MASS × ACCELERATION, and ACCELERATION = MASS ÷ meters per second per second, we can say FORCE=MASS÷(m/s^2^), or FORCE=MASS×(space/time).  This suggets that time, beign th eonly dividing factor, is also equivalen to 2 in the math CONTEXT and  RESISTANCE in the electricity CONTEXT.  Further on, we’ll see how TIME  and n instance or is a form ois resistanmce, and .  This~~ 
+  - ~~This is intuitively and rationally obvious, but a form of **resistance** (as it is energy (**E**) divided by ***c^2^***, according to ***m=E÷c^2^***. Division is, by definition, the division and separation of what was whole and complete, and is represented as **2**. In the case of **MASS**, the whole that is being divided by **ACCELERATION** is **FORCE**. However, as FORCE = MASS × ACCELERATION, and ACCELERATION = MASS ÷ meters per second per second, we can say FORCE=MASS÷(m/s^2^), or FORCE=MASS×(space/time).  This suggets that time, beign th eonly dividing factor, is also equivalen to 2 in the math CONTEXT and  RESISTANCE in the electricity CONTEXT.  Further on, we’ll see how TIME  and n instance or is a form ois resistanmce, and .  This~~ 
 
     ~~Space ÷ time is the domain of frequency. Time ÷ space is the domain of wavelength.   MASS ÷ m/s^2^ is therefore MASS ÷ frequencyeters per second per secondFor example, 2 hours/50 miles = 0.04 hours/mile, or 2.4 minutes per mile, e.g., time measured by space.~~
 
   - 
 
-  - ~~IN the case of .  Although this is a metaphysical observation, it is **2** that turns the unity of **1** into a duality, suggesting that duality, the division and separation of what was whole and complete, is a form of, or result of,  **RESISTANCE** (as if we are not reminded of that daily).  This makes **2** the number of **DIVISION** and **RESISTANCE**, and in the Tholonic model, **2** is the number of **DEFINITION** and **LIMITATION**~~
+  - ~~IN the case of .  Although this is a metaphysical observation, it is **2** that turns the unity of **1** into a duality, suggesting that duality, the division and separation of what was whole and complete, is a form of, or result of,  **resistance** (as if we are not reminded of that daily).  This makes **2** the number of **DIVISION** and **resistance**, and in the Tholonic model, **2** is the number of **DEFINITION** and **LIMITATION**~~
 
   - On an even more philosophical note, **FORCE**, being **6**, is a value that can not exist without **2** or **3**.  This suggests that Force, which is the ‘cause’ of **INSTANCE** and **MOTION** is itself the ‘effect’ of **INSTANCE** and **MOTION**, which are themselves the effect of **FORCE**.  It’s circular logic.
 
   - **MOTION** (**ACCELERATION**, **VELOCITY**), on the other hand, is the result of balancing the division or difference in a duality, because energy only moves when there is an imbalance.  This balancing of the division created by **2** is represented as **3**.  Given that energy always seeks the most stable (i.e., the path of least resistance, or the state that expends the least energy), this makes **3** the number of **BALANCE** and **SUSTAINABILITY**.  In the Tholonic model, **3** is the number of **INTEGRATION** and **CONTRIBUTION**.
 
-  - **FORCE** results from **3** balancing the **2** that imbalanced the **1** (so, really, the pattern is 6 = 1×2×3).  In which case, **FORCE** is the **EFFECT**, not the **CAUSE**, but given that *6 = 2×3*, it is also the **CAUSE** of further division and balancing.  For this reason, **6** can be a **CAUSE** or an **EFFECT**, depending on **CONTEXT**.  In the Tholonic model, **6** as a ‘parent’ represents the source of **RESISTANCE** and **MOTION**, and as a ‘child’, the **NEGOTIATED** sustainable state that emerges from that same **RESISTANCE** and **BALANCE**.  The complete tholon, therefore, is composed of a parent **6**, a child and the two factors of **2** and **3**, which, when all combined, is *216=6^3^*.
+  - **FORCE** results from **3** balancing the **2** that imbalanced the **1** (so, really, the pattern is 6 = 1×2×3).  In which case, **FORCE** is the **EFFECT**, not the **CAUSE**, but given that *6 = 2×3*, it is also the **CAUSE** of further division and balancing.  For this reason, **6** can be a **CAUSE** or an **EFFECT**, depending on **CONTEXT**.  In the Tholonic model, **6** as a ‘parent’ represents the source of **resistance** and **MOTION**, and as a ‘child’, the **NEGOTIATED** sustainable state that emerges from that same **resistance** and **BALANCE**.  The complete tholon, therefore, is composed of a parent **6**, a child and the two factors of **2** and **3**, which, when all combined, is *216=6^3^*.
 
   ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
